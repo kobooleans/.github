@@ -4,8 +4,7 @@
 
 1. 팀 구성원
 
-    <details>
-    <summary>김동윤 </summary>
+### 김동윤
 
    ![img](./img/kim-dong-yun.png)
    ## 💻 Stack
@@ -34,8 +33,7 @@
 
     <br>
 
-    <details>
-    <summary>정혜인 </summary>
+### 정혜인
 
    ![img](./img/jeong-hye-in.png)
    ## 💻 Stack
@@ -66,8 +64,7 @@
 
     <br>
 
-    <details>
-    <summary>조현준</summary>
+### 조현준
 
    # 👤 Full Stack Developer
 
